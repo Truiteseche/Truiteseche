@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Truiteseche
 - 👀 I’m interested in video games & low-level programming
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c++ & python
 - 💞️ I don't even know how to collaborate
 - 📫 How to reach me mael.berthail@hotmail.com
 
