@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Truiteseche
 - 👀 I’m interested in video games & low-level programming
-- 🌱 I’m currently learning c++ & python
-- 💞️ I don't even know how to collaborate
+- 🌱 I’m currently learning one of these languages : c/c++ | python | javascript | HTML | css
+- 🔥 But don't think i'm a good programmer i'm totally noob in each of these languages ↑↑↑
 - 📫 How to reach me mael.berthail@hotmail.com
 
 -> My scratch account : https://scratch.mit.edu/users/Truite_seche/
