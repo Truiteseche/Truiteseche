@@ -4,7 +4,7 @@
 - 🔥 But don't think i'm a good programmer i'm totally noob in each of these languages ↑↑↑
 - 📫 How to reach me mael.berthail@hotmail.com
 
--> My scratch account : https://scratch.mit.edu/users/Truite_seche/
+-> My scratch account (nobody asked but anyway) : https://scratch.mit.edu/users/Truite_seche/
 
 <!---
 Truiteseche/Truiteseche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
