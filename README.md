@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, frontend stuff, or algorithms**
 
-- 📫 How to reach me **truite.berthail@gmail.com**
+- 📫 How to reach me **seche.truite@gmail.com**
 
 - ⚡ Fun fact **I have no idea why my code works**
 
